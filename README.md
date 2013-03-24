@@ -1,6 +1,10 @@
 Twitter 1.1 client API for NodeJS
 =================================
 
+[![Build Status](https://travis-ci.org/passcod/mtwitter.png)](https://travis-ci.org/passcod/mtwitter)
+[![NPM version](https://badge.fury.io/js/mtwitter.png)](http://badge.fury.io/js/mtwitter)
+[![Dependency Status](https://gemnasium.com/passcod/mtwitter.png)](https://gemnasium.com/passcod/mtwitter)
+
 __[mtwitter](https://github.com/passcod/mtwitter)__ is an updated
 version of [@AvianFlu](https://github.com/AvianFlu)'s
 [ntwitter](https://github.com/AvianFlu/ntwitter), which in turn was
