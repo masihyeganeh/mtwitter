@@ -14,6 +14,13 @@ forked from [@jdub](https://github.com/jdub)'s
 
 ## Installation
 
+*__Warning:__ mtwitter 1.3+ __will__ have breaking changes, so make sure to use
+proper version strings (e.g. `1.0.x` to stay with this version while still getting
+fixes) and to familiarise yourself with the changes in the new version before usage.
+The [master] branch has the new code, and may work yet.* 
+
+[master]: https://github.com/passcod/mtwitter/tree/master
+
 You can install __mtwitter__ and its dependencies with npm:
 
 ``` bash
