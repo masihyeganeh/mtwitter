@@ -1,9 +1,25 @@
-Twitter 1.1 client API for NodeJS
-=================================
+mtwitter roadmap
+----------------
+
+The last backward-compatible version (i.e. that can be used as a drop-in
+replacement for ntwitter) is __1.0.x__. If you do not want breakage, do
+specify this in your `package.json`. Future version numbers will start at
+__1.3.x__ and follow Node.js numbering: _odd_ versions are unstable, _even_
+versions are stable. There ___will___ be breakage if you ignore this warning.
+
+For more details into what will go in releases, see the [milestone list][r1].
+[r1]: https://github.com/passcod/mtwitter/issues/milestones
 
 [![Build Status](https://travis-ci.org/passcod/mtwitter.png)](https://travis-ci.org/passcod/mtwitter)
 [![NPM version](https://badge.fury.io/js/mtwitter.png)](http://badge.fury.io/js/mtwitter)
 [![Dependency Status](https://gemnasium.com/passcod/mtwitter.png)](https://gemnasium.com/passcod/mtwitter)
+
+Documentation for the __1.0.x__ release:
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Twitter 1.1 client API for NodeJS
+=================================
 
 __[mtwitter](https://github.com/passcod/mtwitter)__ is an updated
 version of [@AvianFlu](https://github.com/AvianFlu)'s
@@ -13,11 +29,6 @@ forked from [@jdub](https://github.com/jdub)'s
 
 
 ## Installation
-
-*__Warning:__ mtwitter 1.3+ __will__ have breaking changes, so make sure to use
-proper version strings (e.g. `1.0.x` to stay with this version while still getting
-fixes) and to familiarise yourself with the changes in the new version before usage.
-The [master] branch has the new code, and may work yet.* 
 
 [master]: https://github.com/passcod/mtwitter/tree/master
 
